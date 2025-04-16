@@ -68,6 +68,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 - **Products & Cart:**  
   The cart accepts products, each requiring a Stripe Price ID for checkout.
+  See /lib/types.ts
 
 - **Checkout:**  
   On checkout, the app uses Stripe Checkout.  
